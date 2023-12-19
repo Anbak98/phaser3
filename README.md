@@ -13,7 +13,7 @@ Web Pages를 만드는 과정에서 GitLab, GitHub의 관련 기능들을 공부
 Phaser3의 경우 웹 보안 이슈가 제 골치를 아프게 했습니다. 디버깅을 위해 Local Test를 진행했었는데, Local에서 Image를 가져오지 못 하던 것이 보안 때문일 거란 생각을 못해서 한참을 해맸었습니다. Image를 GitLab Repository에 넣어 그걸 불러옴으로써 해당 이슈는 해결했습니다.
 # 후기
 반갑습니다. 길었던 한 학기가 끝나고 다시 한 번 프로젝트로 끝을 장식하네요. 늘 재밌는 강의 감사드린다는 말씀 꼭 드리고 싶었고요, 교수님의 진실된 가르침은 언제나 학업을 넘어 인생의 교훈을 깨우치는 이정표가 됐습니다. 이환용 교수님 존경하고 감사합니다!
-# How Gitlab Pages works
+# GitHub/GitLab이 pages를 만드는 과정
 To use GitLab Pages, you must create a project in GitLab to upload your website’s files to. These projects can be either public, internal, or private.
 
 GitLab always deploys your website from a specific folder called public in your repository. When you create a new project in GitLab, a repository becomes available automatically.
@@ -24,3 +24,4 @@ You can either use the GitLab default domain for GitLab Pages websites, *.gitlab
 
 The following diagrams show the workflows you might follow to get started with Pages.
 ![image](https://docs.gitlab.com/ee/user/project/pages/img/new_project_for_pages_v12_5.png)
+# GitHub/GitLab pages의 유지보수, live server
