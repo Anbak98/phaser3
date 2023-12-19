@@ -1,6 +1,8 @@
 # Welcome to "Web Game Development" tutorial
 In this tutorial, you can make web game like this -> [link](http://copomos00.ajousw.kr/phaser3/)  
 If you learn how to make web game, watch this vidio -> [link]()
+# 오픈소스에서 Documents를 읽는 것은 중요하다
+Documents를 읽는 것은 당연한 것이지만, 대부분 인터넷에서 잘 정리된 글을 찾아 읽는다. 하지만 phaser3와 같은 비교적 덜 유명하다 할 수 있는 오픈소스는 특히 Documents를 읽는 것이 중요하다. 하지만 Documents의 대부분은 길고 어렵기에 훈련되지 않는 사람은 읽고 해석하는 것 자체로 스트레스를 받을 수 있다. 본 Tutorial은 phaser3를 처음 사용하는 사람의 입장에서 Documents를 어떻게 사용해야 하는지를 알려준다.
 # 동기
 웹 게임의 접근성은 주목할 가치가 있습니다. 언제, 어디서든 인터넷만 연결되 있다면 어떤 사전 작업도 필요없이 접근 가능합니다. 이러한 접근성은 포토플리오, 프로토타입, 프레임워크, 비쥬얼 스토리보드 등의 다양한 활용이 가능합니다. 게임은 기술의 집약체이며, 어떤 컨텐츠든 표현 가능하기에 그렇습니다.  
 심지어 어렵지 않습니다. Web Page는 GitHub, GitLab을 이용하면 되며 Web Game의 경우 개발에 도움이 되는 오픈소스가 많습니다.  
