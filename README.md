@@ -25,3 +25,7 @@ You can either use the GitLab default domain for GitLab Pages websites, *.gitlab
 The following diagrams show the workflows you might follow to get started with Pages.
 ![image](https://docs.gitlab.com/ee/user/project/pages/img/new_project_for_pages_v12_5.png)
 # GitHub/GitLab pages의 유지보수, live server
+
+phaser3와 github, gitlab의 copylight
+# Phaser3는 MIT License를 선언한 오픈소스입니다
+![Alt text](image.png)
